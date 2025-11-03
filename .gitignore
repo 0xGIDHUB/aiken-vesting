@@ -1,0 +1,17 @@
+# Aiken compilation artifacts
+artifacts/
+# Aiken's project working directory
+build/
+# Aiken's default documentation export
+docs/
+
+tx-hash.tx
+
+node_modules/
+
+owner.sk
+owner.addr
+beneficiary.sk
+beneficiary.addr
+
+.env
