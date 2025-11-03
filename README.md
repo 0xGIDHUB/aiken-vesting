@@ -9,7 +9,7 @@ A vesting contract is a common type of contract that allows funds to be locked f
 
 **1. Clone the repository:**
 ```bash
-git clone link
+git clone https://github.com/0xGIDHUB/aiken-vesting.git
 cd aiken-vesting
 ```
 
@@ -44,7 +44,8 @@ node vesting_unlock.mjs
 
 You will know that you got it right if you see a message like this:
 ```
-Success message
+txHash 99579e2dbac411c60509affb578705368d93f86589103ff2b2722411d265cba9
+ADA sucessfully unlocked!
 ```
 
 ## Testing
