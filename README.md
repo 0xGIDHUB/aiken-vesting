@@ -3,7 +3,7 @@
 A vesting contract is a common type of contract that allows funds to be locked for a period of time and unlocked later—once a specified time has passed. Typically, a vesting contract defines a beneficiary who may be different from the original owner.
 <br/>
 
-[vesting-validator](link)
+[vesting-validator](https://github.com/0xGIDHUB/aiken-vesting/blob/master/validators/vesting.ak)
 
 ## Quick Start
 
